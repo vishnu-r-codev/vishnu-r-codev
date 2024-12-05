@@ -9,7 +9,18 @@ Senior Full Stack Developer with 11 years of experience building scalable web ap
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### State Management & Reactive Programming
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![NgRx](https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+### Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -26,8 +37,10 @@ Senior Full Stack Developer with 11 years of experience building scalable web ap
 ## 💼 Experience Highlights
 
 - Architected and developed enterprise-level applications using Angular and React
+- Implemented robust state management solutions using Redux, NgRx, and RxJS
+- Created responsive layouts using HTML5, SCSS, and Bootstrap
+- Established comprehensive testing strategies using Jest and Cypress
 - Built scalable microservices using Node.js and Go
-- Implemented state management solutions using NgRx
 - Designed and optimized database schemas for MongoDB and PostgreSQL
 - Containerized applications using Docker and orchestrated with Kubernetes
 - Led teams and mentored junior developers
