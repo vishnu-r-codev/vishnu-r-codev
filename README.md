@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Vishnuvardhan Reddy Yanamala
 
 Senior Full Stack Developer with 11 years of experience building scalable web applications and microservices.
 
