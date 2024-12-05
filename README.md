@@ -43,6 +43,7 @@ Senior Full Stack Developer with 11 years of experience building scalable web ap
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
@@ -54,7 +55,8 @@ Senior Full Stack Developer with 11 years of experience building scalable web ap
 - Implemented message queuing solutions using RabbitMQ for distributed systems
 - Set up robust search functionality using Elasticsearch
 - Established comprehensive monitoring and observability using Prometheus and Grafana
-- Automated deployment workflows with Helm charts and JFrog Artifactory
+- Automated CI/CD pipelines using GitHub Actions and JFrog Artifactory
+- Automated deployment workflows with Helm charts
 - Implemented robust state management solutions using Redux, NgRx, and RxJS
 - Created responsive layouts using HTML5, CSS3, SCSS, and Bootstrap
 - Established comprehensive testing strategies using Jest and Cypress
