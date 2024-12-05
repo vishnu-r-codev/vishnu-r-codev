@@ -10,8 +10,14 @@ Senior Full Stack Developer with 11 years of experience building scalable web ap
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Architecture & APIs
+![Micro Frontends](https://img.shields.io/badge/-Micro%20Frontends-FF6B6B?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-3DDC84?style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### State Management & Reactive Programming
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -22,27 +28,37 @@ Senior Full Stack Developer with 11 years of experience building scalable web ap
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
-### Backend
+### Backend & Message Queuing
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-### Databases
+### Databases & Search
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-### DevOps
+### DevOps & Monitoring
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ## 💼 Experience Highlights
 
 - Architected and developed enterprise-level applications using Angular and React
+- Designed and implemented micro frontend architecture for large-scale applications
+- Built scalable microservices with Node.js and Go, integrated with GraphQL APIs
+- Implemented message queuing solutions using RabbitMQ for distributed systems
+- Set up robust search functionality using Elasticsearch
+- Established comprehensive monitoring and observability using Prometheus and Grafana
+- Automated deployment workflows with Helm charts and JFrog Artifactory
 - Implemented robust state management solutions using Redux, NgRx, and RxJS
-- Created responsive layouts using HTML5, SCSS, and Bootstrap
+- Created responsive layouts using HTML5, CSS3, SCSS, and Bootstrap
 - Established comprehensive testing strategies using Jest and Cypress
-- Built scalable microservices using Node.js and Go
 - Designed and optimized database schemas for MongoDB and PostgreSQL
-- Containerized applications using Docker and orchestrated with Kubernetes
 - Led teams and mentored junior developers
 - Focused on writing clean, maintainable, and well-tested code
 
