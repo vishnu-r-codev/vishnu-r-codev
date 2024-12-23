@@ -83,9 +83,6 @@ Lead Full Stack Developer with 11 years of experience building scalable web appl
 
 ## 📫 How to reach me
 
-- 💼 Connect on [LinkedIn](https://linkedin.com/in/vishnu-r-codev)
-- 📧 Email me at: your.email@example.com
-- 🌐 Visit my portfolio: [yourwebsite.com](https://yourwebsite.com)
-
+- 📧 Email me at: vishnu.r.codev@gmail.com
 ---
 ⭐️ From [vishnu-r-codev](https://github.com/vishnu-r-codev/) 
