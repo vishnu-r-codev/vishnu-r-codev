@@ -76,10 +76,6 @@ Lead Full Stack Developer with 11 years of experience building scalable web appl
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu-r-codev&show_icons=true&theme=dracula)
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-r-codev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vishnu-r-codev)
 
 ## 📫 How to reach me
 
